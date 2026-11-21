@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.zip
